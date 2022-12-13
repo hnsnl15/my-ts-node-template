@@ -2,7 +2,7 @@
   "name": "tsnode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./src/server.ts",
   "type": "module",
   "engines": {
     "npm": "please-use-yarn",
